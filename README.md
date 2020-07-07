@@ -10,3 +10,7 @@
     1. Windowsに設定した環境変数をmsys2スタイルで読み替えて.bash_profileに設定
         1. ２つの環境変数
         1. PATHもmsys2で再定義
+
+# デモコード
+- [今から始めるReact入門](https://qiita.com/TsutomuNakamura/items/72d8cf9f07a5a30be048)で学習中
+    - 7/7 [Reactの基本](https://qiita.com/TsutomuNakamura/items/72d8cf9f07a5a30be048) を完了
