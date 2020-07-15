@@ -18,6 +18,6 @@
     - 7/15 [flux編](https://qiita.com/TsutomuNakamura/items/cb3b6109fb21730cd73f) を完了
     - 7/15 [Redux 編: immutability とは](https://qiita.com/TsutomuNakamura/items/a78514a61ede444bd074) を完了
     - 7/15 [Redux 編: Redux 単体で状態管理をしっかり理解する](https://qiita.com/TsutomuNakamura/items/2ded5112ca5ded70e573) を完了
-    - x/x [Redux 編: Redux アプリケーションを作成する](https://qiita.com/TsutomuNakamura/items/ceaa2552bbbca1bac24e)
+    - 7/16 [Redux 編: Redux アプリケーションを作成する](https://qiita.com/TsutomuNakamura/items/ceaa2552bbbca1bac24e) を完了
     - x/x [Mobx 編](https://qiita.com/TsutomuNakamura/items/f10491060f0f1640afd9)
     

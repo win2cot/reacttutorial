@@ -1,6 +1,6 @@
-var debug   = process.env.NODE_ENV !== "production";
+var debug = process.env.NODE_ENV !== "production";
 var webpack = require('webpack');
-var path    = require('path');
+var path = require('path');
 
 module.exports = {
   context: path.join(__dirname, "src"),
@@ -14,7 +14,7 @@ module.exports = {
         options: {
           plugins: [
             'react-html-attrs',
-            [require('@babel/plugin-proposal-decorators'), {legacy: true}]
+            [require('@babel/plugin-proposal-decorators'), { legacy: true }]
           ],
           presets: ['@babel/preset-react', '@babel/preset-env']
         }
